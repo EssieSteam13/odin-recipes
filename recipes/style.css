@@ -1,0 +1,13 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Lettuce {
+    color: rgb(0, 94, 0);
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.lettuce-wraps {
+    height: 500px;
+}
