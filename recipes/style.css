@@ -1,5 +1,5 @@
 body {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:Tahoma, 'Times New Roman', Helvetica, sans-serif;
 }
 
 .Lettuce {
@@ -11,3 +11,30 @@ body {
 .lettuce-wraps {
     height: 500px;
 }
+
+#kimchi {
+    background-color: rgb(138, 0, 0);
+    color: White;
+    font-weight:bold;
+}
+
+#home {
+    background-color: pink;
+    color: rgb(218, 126, 142);
+}
+
+.h2 {
+    color: rgb(76, 163, 76);
+    background-color: rgb(174, 145, 145);
+    text-align: center;
+}
+
+.lettuce-intro {
+    color: green;
+    font-family: fantasy;
+}
+
+.h3 {
+    color: rgb(108, 59, 59);
+}
+
