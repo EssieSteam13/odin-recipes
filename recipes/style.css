@@ -1,32 +1,47 @@
+<--Lettuce Wraps Page-->
+
 body {
+    display: inline-block;
     font-family:Tahoma, 'Times New Roman', Helvetica, sans-serif;
 }
 
 .Lettuce {
+    background-color: lightgreen;
     color: rgb(0, 94, 0);
     font-weight: bold;
     font-size: 56px;
+    text-align: center;
+    border: 4px solid green;
+    margin-left: 4em;
+    margin-right: 4em;
+    padding: 10px;
+
 }
 
 .lettuce-wraps {
     height: 500px;
+    width: 400px;
+    margin-left: 450px;
+    margin-bottom: 25px;
+    border: 4px solid black;
 }
 
-#kimchi {
-    background-color: rgb(138, 0, 0);
-    color: White;
-    font-weight:bold;
-}
-
-#home {
-    background-color: pink;
-    color: rgb(218, 126, 142);
+.card {
+    background-color: lightgreen;
+    border: 5px solid darkgreen;
+    margin-left:50px;
+    margin-right: 50px;
 }
 
 .h2 {
-    color: rgb(76, 163, 76);
-    background-color: rgb(174, 145, 145);
+    color: wheat;
+    background-color: brown;
     text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 8px;
+    border: 3px solid rgb(104, 17, 17);
+    
 }
 
 .lettuce-intro {
@@ -38,3 +53,15 @@ body {
     color: rgb(108, 59, 59);
 }
 
+.lettuce-intro {
+    padding-left: 14px;
+    padding-right: 15px;
+    text-indent: 15px;
+}
+
+<--Kimchi Rame Page-->
+
+#kimchi {
+    background-color: rgb(138, 0, 0);
+    color: White;
+    font-weight:bold;
